@@ -42,8 +42,8 @@ Here are some of my key projects that reflect my expertise and interests:
 ---
 
 ## 📬 Let's Connect!
-- 💼 [LinkedIn](#)
-- 📧 [Email](#)
+- 💼 [LinkedIn](www.linkedin.com/in/mathiasdahfienon)
+- 📧 [Email](mfienon@yahoo.com)
 - 🖥️ [Website/Portfolio](#)
 
 Feel free to check out my repositories, collaborate on projects, or reach out for discussions on **quantitative finance, risk modeling, and data science applications in finance**!
