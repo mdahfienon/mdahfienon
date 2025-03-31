@@ -23,11 +23,11 @@ Here are some of my key projects that reflect my expertise and interests:
 
 ### 1️⃣ **Dynamic Risk Parity Portfolio Selection**
 📖 *Research-driven approach to optimizing risk-balanced portfolios using Independent Component Analysis.*  
-🔗 [GitHub Repo]((https://github.com/mdahfienon/score_driven)) | 📄 [Paper (available soon)](#)
+🔗 [GitHub Repo](https://github.com/mdahfienon/score_driven) | 📄 [Paper (available soon)](#)
 
 ### 2️⃣ **Time Series Volatility Modeling**
 📖 *Exploring GARCH models, regime-switching, and deep learning methods for financial volatility forecasting.*  
-🔗 [GitHub Repo]([#](https://github.com/mdahfienon/LSTAT2170_TimesSeries))
+🔗 [GitHub Repo](https://github.com/mdahfienon/LSTAT2170_TimesSeries)
 
 ### 3️⃣ **Cyber Risk Quantification in Financial Institutions**
 📖 *Developing statistical and ML-based approaches for assessing cyber risk in banks and insurance companies.*  
