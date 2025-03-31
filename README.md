@@ -1,6 +1,6 @@
 # Hi there, I'm Mathias! 👋
 
-## 🔍 About Me
+## 🔍 About Me 🏆
 I'm a PhD candidate in Statistics with a strong interest in **quantitative finance, time series volatility, risk management, and machine learning**. My research focuses on **Dynamic Risk Parity Portfolio Selection with Independent Component Analysis**, and I also explore topics in **cyber risk quantification, systemic risk modeling, and model validation frameworks**.
 
 I'm passionate about applying statistical and machine learning techniques to **financial risk assessment**, aiming to bridge the gap between academia and industry. My goal is to leverage these skills for a career in **data science within the insurance or banking sector**.
@@ -35,13 +35,13 @@ Here are some of my key projects that reflect my expertise and interests:
 
 ---
 
-## 📚 Latest Contributions & Writings
+## 📚 Latest Contributions & Writings ✍️
 - 📝 **[My latest blog post on risk management](#)**
 - 🎤 **Talks & presentations on quantitative finance**
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Let's Connect! 🌍
 - 💼 [LinkedIn](www.linkedin.com/in/mathiasdahfienon)
 - 📧 [Email](mfienon@yahoo.com)
 - 🖥️ [Website/Portfolio](#)
